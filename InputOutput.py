@@ -23,4 +23,4 @@ else:
 
 # print the final amount
 print(f"Total cost: ₹{total_amount:.2f}")
-print("Happy Shooping!!")
+print("Happy Shooping")
